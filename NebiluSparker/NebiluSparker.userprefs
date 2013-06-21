@@ -1,0 +1,21 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="NebiluSparker\HeroShip.cs">
+    <Files>
+      <File FileName="NebiluSparker\app.xml" Line="2" Column="32" />
+      <File FileName="NebiluSparker\AppMain.cs" Line="6" Column="28" />
+      <File FileName="NebiluSparker\HeroShip.cs" Line="11" Column="1" />
+      <File FileName="NebiluSparker\HUD.cs" Line="4" Column="1" />
+      <File FileName="NebiluSparker\Sprite.cs" Line="3" Column="1" />
+      <File FileName="NebiluSparker\AlienShip.cs" Line="4" Column="1" />
+      <File FileName="NebiluSparker\Projectile.cs" Line="5" Column="1" />
+      <File FileName="NebiluSparker\explosion.cs" Line="14" Column="24" />
+      <File FileName="NebiluSparker\MenuDisplays.cs" Line="8" Column="34" />
+      <File FileName="C:\Program Files (x86)\MSBuild\Sce\Sce.Psm.Common.targets" Line="180" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
